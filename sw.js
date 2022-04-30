@@ -1,1 +1,1 @@
-importScripts("https://mo.aljasmine.store/sw.js");
+importScripts("https://aff.meshad.xyz/sw.js");
